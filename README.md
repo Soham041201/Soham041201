@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently finding new open source projects to contribute
-- 🌱 I’m currently learning react and trying to expand my knowledge in the terms of node and express
+- Tech Lead at Leazkart🥑
+- 🌱 Full Stack developer with experience in MERN and Flutter
 - 📫 How to reach me: You can reach me through discord, Linkdin or drop me a mail to sattigeri.soham@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Soham041201)
