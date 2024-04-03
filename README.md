@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- Tech Lead at Leazkart🥑
 - 🌱 Full Stack developer with experience in MERN and Flutter
 - 📫 How to reach me: You can reach me through discord, Linkdin or drop me a mail to sattigeri.soham@gmail.com
 
