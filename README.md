@@ -8,6 +8,6 @@ what i enjoy:
 - teaching, writing, and sharing how things work under the hood[web:18]
 
 you can find more of my work & thoughts here:
-- portfolio: https://sohamsattigeri.com[web:19]
-- linkedin: https://www.linkedin.com/in/soham-sattigeri-062bb1179[web:1]
-- x (twitter): https://x.com/sohamdocs[web:11]
+- portfolio: https://sohamsattigeri.com
+- linkedin: https://www.linkedin.com/in/soham-sattigeri-062bb1179
+- x (twitter): https://x.com/sohamdocs
